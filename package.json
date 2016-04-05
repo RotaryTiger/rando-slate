@@ -1,0 +1,26 @@
+{
+  "name": "rando-slate",
+  "version": "1.0.0",
+  "description": "finds a random blank slate article to show",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RotaryTiger/rando-slate.git"
+  },
+  "keywords": [
+    "blank",
+    "slate"
+  ],
+  "author": "Daniel MacPhee <dmacrva@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RotaryTiger/rando-slate/issues"
+  },
+  "homepage": "https://github.com/RotaryTiger/rando-slate#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
